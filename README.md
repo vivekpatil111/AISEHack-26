@@ -24,7 +24,7 @@
 
 | Stage | Leaderboard | Rank | Score |
 |---|---|---|---|
-| Phase 1 | Public | **AIR #12** | ***12.753** |
+| Phase 1 | Public | **AIR #12** | **12.753** |
 | Phase 2 Grand Finale | Public | **AIR #2** | **0.8950** |
 | Phase 2 Grand Finale | Private (Final) | **AIR #4** | **0.8783** |
 
